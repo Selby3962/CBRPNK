@@ -1,0 +1,15 @@
+index.html - between body and root
+<audio controls src="https://github.com/Selby3962/CBRPNK/raw/main/assets/WarohanAmbient.mp3" class="audioPlayer"></audio>
+
+custom.css
+.audioPlayer {
+	position: absolute;
+	margin-left: 250px;
+	height: 32px;
+	z-index: 999;
+}
+
+audio::-webkit-media-controls-panel {
+  background-color: #002b36;
+  color: #fff;
+}

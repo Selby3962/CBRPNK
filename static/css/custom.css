@@ -8,6 +8,7 @@ Original theme by Zeno Rocha: (https://github.com/zenorocha/dracula-theme)
 
 @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/bullet_threading.css");
 
+
 .audioPlayer {
 	position: absolute;
 	margin-left: 250px;
@@ -19,6 +20,7 @@ audio::-webkit-media-controls-panel {
   background-color: #002b36;
   color: #fff;
 }
+
 
 :root {
 	/*
