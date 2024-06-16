@@ -10,6 +10,6 @@ custom.css
 }
 
 audio::-webkit-media-controls-panel {
-  background-color: #002b36;
+  background-color: #191919;
   color: #fff;
 }
