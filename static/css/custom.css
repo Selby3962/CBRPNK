@@ -8,6 +8,12 @@ Original theme by Zeno Rocha: (https://github.com/zenorocha/dracula-theme)
 
 @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/bullet_threading.css");
 
+.play {
+	position: fixed;
+
+}
+
+
 :root {
 	/*
 Original colors from Bear Panic Mode theme package
