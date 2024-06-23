@@ -10,6 +10,8 @@ audio::-webkit-media-controls-panel {
   color: #fff;
 }
 
+@import url("https://raw.githack.com/yoyurec/logseq-awesome-content/main/src/awesomeContent-cdn.css");
+@import url("https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css");
 @import url('https://fonts.googleapis.com/css2?family=Jersey+25+Charted&display=swap');
 
 /* moded with `bullet_threading.css` by @pengx17 

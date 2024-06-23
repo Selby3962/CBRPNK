@@ -1,7 +1,12 @@
 index.html - between body and root
 <audio controls src="https://github.com/Selby3962/CBRPNK/raw/main/assets/WarohanAmbient.mp3" class="audioPlayer"></audio>
 
-custom.css
+
+index.html - in header
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css">
+
+
+
 .audioPlayer {
 	position: absolute;
 	margin-left: 250px;
